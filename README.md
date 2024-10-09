@@ -1,0 +1,2 @@
+# mapicons
+Categorical Icons
